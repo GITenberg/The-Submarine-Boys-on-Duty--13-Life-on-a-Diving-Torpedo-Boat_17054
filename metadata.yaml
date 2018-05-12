@@ -1,0 +1,25 @@
+_repo: The-Submarine-Boys-on-Duty--13-Life-on-a-Diving-Torpedo-Boat_17054
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Durham, Victor G.
+    gutenberg_agent_id: '7113'
+    url: http://www.gutenberg.org/2009/agents/7113
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17054'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+- !lcc 'PZ'
+title: "The Submarine Boys on Duty\r\nLife on a Diving Torpedo Boat"
+url: http://www.gutenberg.org/ebooks/17054
